@@ -1,7 +1,6 @@
+Check out Live: https://pypi.org/project/Topsis-Rohit-101903706/
 # TOPSIS PACKAGE
 ## BY ROHIT JAIN
-## ROLL: 101903706
-## SUBJECT: PREDICTIVE ANALYSIS
 
 ### Instalation of the package:
 Install the package using the commnd `pip install Topsis-Rohit-101903706`
